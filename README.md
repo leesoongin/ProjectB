@@ -26,8 +26,8 @@
 
 <br>
 
-<p><img width="400" height="500" alt="스크린샷 2021-08-20 오후 6 06 37" src="https://user-images.githubusercontent.com/55231029/130416373-064b61fd-6241-4f5d-b170-cb1ddea3cfb4.png">
-  <img width="400" height="500" alt="스크린샷 2021-08-20 오후 6 06 37" src="https://user-images.githubusercontent.com/55231029/130422284-c27470d5-eda8-4d97-801a-8c0cb90ae632.png">
+<p><img width="250" height="500" alt="스크린샷 2021-08-20 오후 6 06 37" src="https://user-images.githubusercontent.com/55231029/130416373-064b61fd-6241-4f5d-b170-cb1ddea3cfb4.png">
+  <img width="250" height="500" alt="스크린샷 2021-08-20 오후 6 06 37" src="https://user-images.githubusercontent.com/55231029/130422284-c27470d5-eda8-4d97-801a-8c0cb90ae632.png">
 </p>
 
 <br>
@@ -72,9 +72,9 @@
 
 <br>
 
-<p><img width="400" height="500" alt="스크린샷 2021-08-20 오후 6 06 37" src="https://user-images.githubusercontent.com/55231029/130416675-e002a87d-6c70-4235-8521-a3264c062260.png">
-  <img width="400" height="500" alt="스크린샷 2021-08-20 오후 6 06 37" src="https://user-images.githubusercontent.com/55231029/130417369-f25dc6a1-c299-4c09-ace5-eadd58f1aa8e.png">
-  <img width="400" height="500" alt="스크린샷 2021-08-20 오후 6 06 37" src="https://user-images.githubusercontent.com/55231029/130417047-494a030e-0e6f-414d-b76f-869f492d0ffe.png">
+<p><img width="250" height="500" alt="스크린샷 2021-08-20 오후 6 06 37" src="https://user-images.githubusercontent.com/55231029/130416675-e002a87d-6c70-4235-8521-a3264c062260.png">
+  <img width="250" height="500" alt="스크린샷 2021-08-20 오후 6 06 37" src="https://user-images.githubusercontent.com/55231029/130417369-f25dc6a1-c299-4c09-ace5-eadd58f1aa8e.png">
+  <img width="250" height="500" alt="스크린샷 2021-08-20 오후 6 06 37" src="https://user-images.githubusercontent.com/55231029/130417047-494a030e-0e6f-414d-b76f-869f492d0ffe.png">
 </p>
 
 <br>
@@ -137,7 +137,7 @@ UIButton 이 상속하고 있는 UIControl 의 프로퍼티 `isEnabled`
 
 ## Signup 2
 
-<p><img width="400" height="500" alt="스크린샷 2021-08-20 오후 6 06 37" src="https://user-images.githubusercontent.com/55231029/130417459-eecd402d-600b-4159-9467-37ec6934f2e3.png">
+<p><img width="250" height="500" alt="스크린샷 2021-08-20 오후 6 06 37" src="https://user-images.githubusercontent.com/55231029/130417459-eecd402d-600b-4159-9467-37ec6934f2e3.png">
 </p>
 
 <br>
