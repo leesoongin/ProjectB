@@ -66,6 +66,7 @@
 			children = (
 				A891289E26D2566A007A1A69 /* Model */,
 				A891289D26D25652007A1A69 /* Singleton */,
+				A8AE8B2E26C699760070030C /* Controllers */,
 				A867781A26C51D7100328FCD /* AppDelegate.swift */,
 				A867781C26C51D7100328FCD /* SceneDelegate.swift */,
 				A867782026C51D7100328FCD /* Main.storyboard */,
@@ -80,7 +81,6 @@
 			isa = PBXGroup;
 			children = (
 				A891289A26D25604007A1A69 /* UserInfomation.swift */,
-				A8AE8B2E26C699760070030C /* Controllers */,
 			);
 			path = Singleton;
 			sourceTree = "<group>";
